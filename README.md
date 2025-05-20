@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning java
 - 📫 How to reach me : knock on my door
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 45k+ people killed in Gaza, Free Palestine
 
 <!---
 sputn1km10/sputn1km10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
